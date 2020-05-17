@@ -1,0 +1,51 @@
+html,body {
+    height:100%;
+    font-family: 'Abel', sans-serif;
+    top: 0em;
+    margin-top: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+}
+#Creative {
+    position:relative; 
+    margin:0px 0px; 
+    min-height: 85vh;
+    max-height: 100%;
+    color: #9c78b4a2;
+}
+
+#someidentifier {
+    position: fixed;
+    z-index: 100;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    opacity: 0.7;
+    color: #ffffff;
+    font-family: Calibri;
+}
+
+#query {
+    margin-left: 5px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 10px;
+}
+footer #socialmedia {
+    text-align:center;
+    margin-bottom:2em;
+}
+footer #socialmedia img {
+    opacity: .7;
+    filter: alpha(opacity=70);
+}
+footer #socialmedia img:hover {
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
