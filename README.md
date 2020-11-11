@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](http://jessicafarias.dx.am/)
+[Live Demo Link](http://jessicafarias.me/cube.html)
 
 ## Authors
 
